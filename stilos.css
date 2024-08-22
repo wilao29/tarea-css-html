@@ -1,0 +1,51 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #7ada71;
+    color: #000000;
+    margin: 0.5em;
+    margin-top: auto;
+    text-align: justify;
+    
+    }
+
+  h1 {
+    font-size: 4.5em;
+    margin-left: 38vw;
+    }
+  
+  h2{
+    font-size: 2.5em;
+    margin: .5em;
+    margin-top: 1em;
+    }
+  
+    .imagen{
+      width: 50em;
+      margin: 1em;
+      margin-left: 35em;
+      }
+
+  .selectores{
+    font-size: 1.5em;
+  }
+    
+
+  .seleccion{
+    border: solid rgb(168, 3, 3); 
+    margin-left: 19vw;
+    width: fit-content;
+    padding: 0em 0.5em 0.2em 0.5em;
+    border-radius: 20%;
+  }
+  .seleccion:hover{
+    background-color: rgb(228, 0, 0);
+   transition: 1s;
+  }
+
+  #contenedor-de-seleccion{
+    background-color: white;
+    width: 98.6vw;
+    display: flex;
+    align-self: start;
+
+  }
