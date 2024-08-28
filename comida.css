@@ -12,3 +12,20 @@ h1{
     color: white;
     font-size: 2em;
 }
+
+.imagen{
+    border: solid 10;
+    border-color: aliceblue
+
+}
+
+#comida{
+    width: 60em;
+
+}
+
+#comida2{
+    width: 30em;
+
+}
+
